@@ -31,5 +31,7 @@ Busco una oportunidad para realizar mi **contrato de aprendizaje** en el área d
 
 ### 📫 Contacto
 
-* LinkedIn: [Mi perfil de LinkedIn](www.linkedin.com/in/diego-monsalvelon)
+* LinkedIn: [www.linkedin.com/in/diego-monsalvelon]
+
+
 
