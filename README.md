@@ -31,6 +31,5 @@ Busco una oportunidad para realizar mi **contrato de aprendizaje** en el área d
 
 ### 📫 Contacto
 
-* LinkedIn: [Mi perfil de LinkedIn](www.linkedin.com/in/
-diego-alejandro-monsalve-londoño-4598aa425)
+* LinkedIn: [Mi perfil de LinkedIn](www.linkedin.com/in/diego-alejandro-monsalve-londoño-4598aa425)
 
