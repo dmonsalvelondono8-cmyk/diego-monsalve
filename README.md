@@ -30,7 +30,7 @@ Actualmente estoy construyendo proyectos y ejercicios como parte de mi proceso d
 Busco una oportunidad para realizar mi **contrato de aprendizaje** en el área de tecnología, donde pueda aplicar mis conocimientos, adquirir experiencia y continuar desarrollándome profesionalmente.
 
 ### 📫 Contacto
-www.linkedin.com/in/diego-monsalve-lon-4598aa425
 
-* LinkedIn: [Mi perfil de LinkedIn](PEGA-AQUI-TU-LINK)
+* LinkedIn: [Mi perfil de LinkedIn](www.linkedin.com/in/
+diego-alejandro-monsalve-londoño-4598aa425)
 
