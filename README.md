@@ -29,7 +29,7 @@ Cada ejercicio y cada proyecto representa una oportunidad para adquirir nuevos c
 
 Aquí puedes encontrar las diferentes áreas en las que estoy trabajando:
 
-### 🐍 [Aprendizaje de Python](https://github.com/TU-USUARIO/aprendizaje-python)
+### 🐍 [Aprendizaje de Python](https://github.com/dmonsalvelondono8-cmyk/python-learning)
 
 Ejercicios, prácticas y conocimientos adquiridos mientras aprendo Python.
 
@@ -136,7 +136,7 @@ Estoy al comienzo de mi camino en el desarrollo de software, por lo que este per
 
 Puedes conocer más sobre mi perfil profesional en LinkedIn:
 
-🔗 Mi LinkedIn: [(www.linkedin.com/in/diego-monsalvelon)]
+🔗 [Mi LinkedIn](www.linkedin.com/in/diego-monsalvelon)
 
 ---
 
