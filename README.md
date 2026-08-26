@@ -76,7 +76,7 @@ Y próximamente espero ampliar mis conocimientos en diferentes áreas del desarr
 ## 📈 Mi proceso de aprendizaje
 
 Mi objetivo no es solamente aprender a programar, sino desarrollar una buena base para poder construir proyectos cada vez más completos.
----
+
 ``` 
 📚 Aprender
      ↓
